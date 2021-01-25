@@ -1,0 +1,8 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.idea/.idea.XrmPlay452/.idea/encodings.xml
+/.idea/.idea.XrmPlay452/.idea/indexLayout.xml
+/.idea/.idea.XrmPlay452/.idea/vcs.xml
